@@ -5,9 +5,11 @@
  It seems to challange with Angular since the learning curve is faster.
  
 #Algorithm and Data Structure:
-## 
+https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm
+
 # My soft skills
  ## Interview: https://www.hiredintech.com/classrooms/algorithm-design/lesson/76/task/26
+
 #PORTFOLIO:
 https://myprojecta1-5.firebaseapp.com
 
