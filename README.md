@@ -12,8 +12,6 @@ Release product:
   https://www.youtube.com/watch?v=I0W0AjKpCO8
   
   http://www.netapp.com/us/products/storage-systems/e2800/index.aspx
-  
-  http://www.econotimes.com/NetApp-SolidFire-SF-Series-19210-and-NetApp-E2800-Named-2016-CRN-Product-of-the-Year-Finalists-436260
 
 Angular 1.5.8: https://myprojecta1-5.firebaseapp.com
 
@@ -36,3 +34,6 @@ https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.h
  
 ## Good Links:
  1. JavaScripts: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+## Other Links:
+ 1.   http://www.econotimes.com/NetApp-SolidFire-SF-Series-19210-and-NetApp-E2800-Named-2016-CRN-Product-of-the-Year-Finalists-436260
+ 
