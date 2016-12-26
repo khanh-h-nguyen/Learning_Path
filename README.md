@@ -7,7 +7,13 @@
  REACT seems to challange with Angular since the learning curve is faster.
  
 #PORTFOLIO:
-https://myprojecta1-5.firebaseapp.com
+Release product:
+ NetApp SANtricity® software - an intuitive on-box, browser-based interface app:
+  https://www.youtube.com/watch?v=I0W0AjKpCO8
+  http://www.netapp.com/us/products/storage-systems/e2800/index.aspx
+
+Angular 1.5.8: https://myprojecta1-5.firebaseapp.com
+
 
 
 #Algorithm and Data Structure:
