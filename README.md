@@ -31,8 +31,8 @@ https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.h
  3. Sololearns: https://www.sololearn.com/
  4. Codepen.io: http://codepen.io/khanh-h-nguyen/
  
- ## Algorithms: 
+## Algorithms: 
  System Design: https://www.hiredintech.com/classrooms/algorithm-design/lesson/76/task/26
  
- ## Good Links:
+## Good Links:
  1. JavaScripts: https://developer.mozilla.org/en-US/docs/Web/JavaScript
