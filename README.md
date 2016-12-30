@@ -1,9 +1,9 @@
 # Technical Usage or Learning Path
-## Angular 1.2 - 1.4 (May 2014 - May 2016)
-## Angular 1.5.8 or 1.6 (Nov - Dec 2016)
+## Angular 1.2 - 1.4 (May 2014 - May 2015)
+## Angular 1.5.8 or 1.6 (May 2016)
 ## Angular 2 (Nov 2016 - Jan 2017)
-### ASP.Net MVC 5
-## React & Flux - 
+### ASP.Net MVC 5 (Dec 2016)
+## React & Flux - (In review)
  REACT seems to challange with Angular since the learning curve is faster.
  
 #PORTFOLIO:
