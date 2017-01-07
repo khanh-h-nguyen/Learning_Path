@@ -35,6 +35,8 @@ QuickSort(JavaScript): https://www.nczonline.net/blog/2012/11/27/computer-scienc
  
 ## Good Links:
  1. JavaScripts: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+ 2. JavaScript Functional Programming
+ 
 ## Other Links:
  1.   http://www.econotimes.com/NetApp-SolidFire-SF-Series-19210-and-NetApp-E2800-Named-2016-CRN-Product-of-the-Year-Finalists-436260
  
