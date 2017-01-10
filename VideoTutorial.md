@@ -9,9 +9,8 @@
 
 #JavaScript Libraries:
 
-
   ## Functional Programming:
-     UnderScore, LoDash, Lazy
+    1. UnderScore, LoDash, Lazy
    
   ## Chart and Graphs:
     1. D3, HighCharts
