@@ -11,11 +11,16 @@
 
 
   ## Functional Programming:
-    1. UnderScore: 
+     UnderScore, LoDash, Lazy
    
   ## Chart and Graphs:
-    1. 
+    1. D3, HighCharts
     
   ## Maps: 
     1. Leaflet: 
-
+  
+  ## JavaSCript Framework Blogs:
+    1. https://getflywheel.com/layout/20-javascript-libraries-to-check-out-in-2016/
+    2. https://speckyboy.com/top-50-javascript-2016/
+    3. http://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/
+    4. https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.zlkoccx48
