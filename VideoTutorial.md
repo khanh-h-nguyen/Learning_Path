@@ -7,7 +7,6 @@
    2. JavaScriptAlgorithm: https://www.youtube.com/watch?v=v8e7VPATs1k&list=PLTgRMOcmRb3Mkd4ZrlQy2RMbdxsI8aKFJ
 
 #JavaScript Libraries:
-
   ## Functional Programming:
    1. UnderScore: 
    
