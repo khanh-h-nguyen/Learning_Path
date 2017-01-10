@@ -6,9 +6,12 @@
    1. Douglas Crockford: The JavaScript Programming Language https://www.youtube.com/watch?v=v2ifWcnQs6M
    2. JavaScriptAlgorithm: https://www.youtube.com/watch?v=v8e7VPATs1k&list=PLTgRMOcmRb3Mkd4ZrlQy2RMbdxsI8aKFJ
 
+
 #JavaScript Libraries:
+
+
   ## Functional Programming:
-   1. UnderScore: 
+    1. UnderScore: 
    
   ## Chart and Graphs:
     1. 
