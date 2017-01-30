@@ -23,6 +23,14 @@
     3. http://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/
     4. https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.zlkoccx48
  
- Velocity js   
+  animation engine 
+  Velocity js  jQuery
+  Velocity gallery:
+  http://codepen.io/collection/tIjGb/
+  
+  WebGL
+  http://learningwebgl.com/blog/
+  
+  
   ## Other:
   http://www.macmillandictionary.com/us/pronunciation/american/proprietary
