@@ -39,4 +39,8 @@ QuickSort(JavaScript): https://www.nczonline.net/blog/2012/11/27/computer-scienc
  
 ## Other Links:
  1.   http://www.econotimes.com/NetApp-SolidFire-SF-Series-19210-and-NetApp-E2800-Named-2016-CRN-Product-of-the-Year-Finalists-436260
+
+## HTML5 and CSS3
+1. https://www.youtube.com/watch?v=Wm6CUkswsNw&t=53s
+2. https://www.youtube.com/watch?v=2R-qmsvtSaQ
  
