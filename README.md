@@ -29,7 +29,7 @@ QuickSort(JavaScript): https://www.nczonline.net/blog/2012/11/27/computer-scienc
  2. FireCode: https://www.firecode.io/
  3. Sololearns: https://www.sololearn.com/
  4. Codepen.io: http://codepen.io/khanh-h-nguyen/
- 5.  www.topcoder.com, www.codechef.com or  TopCoder and HackerRank, 
+ 5.  www.topcoder.com, www.codechef.com or https://www.hackerrank.com/ 
 ## Algorithms: 
  System Design: https://www.hiredintech.com/classrooms/algorithm-design/lesson/76/task/26
  
